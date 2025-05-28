@@ -104,6 +104,7 @@ section header {
 
 aside {
   grid-area: aside;
+  display: grid;
 }
 
 #more {

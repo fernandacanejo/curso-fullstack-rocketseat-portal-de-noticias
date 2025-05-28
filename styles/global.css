@@ -74,10 +74,3 @@ main {
   color: var(--text-color-primary);
   box-shadow: 0px 4px 16px rgba(2, 6, 23, 0.251);
 }
-
-@media (max-width: 600px) {
-  .grid-container {
-    display: block;
-    padding: 1rem;
-  }
-}
